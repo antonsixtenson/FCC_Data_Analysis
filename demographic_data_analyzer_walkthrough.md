@@ -1542,15 +1542,6 @@ print(highest_perc, highest_country)
 
 
 
-```python
-highest_earning_country_percentage = (((df[df["salary"] == ">50K"])["native-country"].value_counts())[0]/df[df["native-country"] == highest_earning_country].count())[0]*100
-```
-
-
-
-
-    24.583476174151524
-
 
 
 ### Identify the most popular occupation for those who earn >50K in India
