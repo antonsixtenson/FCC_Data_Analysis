@@ -21,10 +21,6 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
     .dataframe tbody tr th {
         vertical-align: top;
