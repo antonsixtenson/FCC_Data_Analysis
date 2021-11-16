@@ -150,7 +150,7 @@ ax.scatter(df["Year"], df["CSIRO Adjusted Sea Level"], s=5)
     
 
 
-### Use the lineregress function from scipy.stats . . .
+### Use the linregress function from scipy.stats . . .
 
 #### . . . to get the slope and y-intercept of the line of best fit. Plot the line of best fit over the top of the scatter plot. Make the line go through the year 2050 to predict the sea level rise in 2050.
 
